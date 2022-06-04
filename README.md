@@ -1,3 +1,7 @@
+# RPA란?
+
+# RPA 구현 방법에 따른 종류
+
 # Python_RPA
 RPA Framework
 
