@@ -6,3 +6,16 @@
 RPA Framework
 
     RPA Framework is a collection of open-source libraries and tools for Robotic Process Automation (RPA), and it is designed to be used with both Robot Framework and Python.
+    
+    
+ ### 1. Chrome 오프라인 파일 설치
+ 
+     https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=ko
+ 
+ 
+ 
+### 2. Anaconda 오프라인 파일 설치
+
+    https://docs.conda.io/en/latest/miniconda.html
+    
+    
