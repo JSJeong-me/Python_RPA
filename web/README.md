@@ -20,9 +20,14 @@
     <p>My first paragraph.</p>
 
 
-### Web Browsers
+### Web 브라우저 (Browsers)
 
 ![img_chrome](https://user-images.githubusercontent.com/54794815/173492244-53e91510-d06c-4e6d-9fed-dc3fc385ffea.png)
+
+
+### HTML 구조
+
+![structure](https://user-images.githubusercontent.com/54794815/173492469-4a5e4160-1c23-4542-ac9e-08dc890170ef.png)
 
 
 
